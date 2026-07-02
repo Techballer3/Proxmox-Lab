@@ -1,0 +1,11 @@
+# Proxmox Lab Project Log
+
+## [2026-07-02]
+
+### What I did
+*   Set up a new user account (`lab1`) for everyday tasks.
+*   Gave `lab1` "Administrator" permissions to manage the lab.
+
+### Why I did it
+*   **Better Security:** It is safer to use a standard account for daily work.
+*   **Protection:** I am now saving the `root` (main system) account only for emergencies. This helps prevent mistakes and keeps the system more secure.
