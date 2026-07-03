@@ -1,0 +1,18 @@
+Proxmox Network Configuration
+
+Network Setup
+What it is
+Host IP: 172.16.0.10/24 (Static)
+
+Web UI: Accessed via port 8006
+
+Network Mode: [e.g., NAT or Routed]
+
+Why it is set up this way
+Reliability: Using a Static IP ensures the server is always easy to find on the network.
+
+Security: Using a private IP range (172.16.x.x) is safe to document publicly while keeping your home network isolated.
+
+Standard Access: Using port 8006 is the standard, clean way to manage Proxmox.
+
+Connectivity: This network mode allows for controlled communication between the virtual machines and the host.
