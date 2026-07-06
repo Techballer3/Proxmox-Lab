@@ -1,5 +1,17 @@
 # Proxmox Lab Project Log
 
+## [2026-07-06]
+
+### What I did
+* Connected my Mini PC directly to my computer with an Ethernet cable.
+* Gave both machines a fixed (static) IP address.
+* Disconnected the lab from my home network to keep it 100% private.
+
+### Why I did it
+* **Better Stability:** The connection won't break anymore because I am not using the home router.
+* **Better Security:** By "air-gapping" the lab, I created a safe space that is completely separate from my home network.
+
+
 ## [2026-07-02]
 
 ### What I did
