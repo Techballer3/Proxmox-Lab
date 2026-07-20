@@ -1,11 +1,11 @@
 # Proxmox Network Configuration
 
 ## Setup
-* **Connection:** Direct Ethernet cable (no router).
-* **My PC IP:** 10.10.10.1
-* **Mini PC IP:** 10.10.10.2
+* **Connection:** Local network / DHCP
+* **My PC IP:** [Your-PC-IP]
+* **Mini PC IP:** [Your-Mini-PC-IP]
 * **Access:** Port 8006
 
 ## Why
-* **Stability:** Direct cables are more reliable than Wi-Fi or router connections.
-* **Isolation:** Keeping the lab off the home network makes it a safer, private sandbox.
+* **Accessibility:** Integrates smoothly with your current working network setup.
+* **Functionality:** Keeps everything running reliably without requiring extra manual static interface configurations.
