@@ -8,3 +8,8 @@ To optimize the remote administration workflow and CLI visibility, the Linux env
    ```bash
    sudo apt install git -y
    sh -c "$(curl -fsSL [https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh](https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh))"
+
+## Lab Index
+
+* [Network Configuration](./network_config.md)
+* [Project Log](./project_log.md)
