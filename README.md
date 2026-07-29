@@ -11,6 +11,6 @@ To optimize the remote administration workflow and CLI visibility, the Linux env
 
 ## Lab Index
 
-* [Lab Inventory](./lab_inventory.md)
+* [Lab Setup](./lab_setup.md)
 * [Network Configuration](./network_config.md)
 * [Project Log](./project_log.md)
