@@ -1,5 +1,19 @@
 # Proxmox Lab Project Log
 
+[2026-07-29]
+
+What I did
+
+* Successfully deployed and booted the Metasploitable vulnerable VM into Proxmox.
+* Configured the disk controller to IDE and updated the boot order to resolve initialization and LVM constraints.
+* Verified successful login (`msfadmin` / `msfadmin`) on the isolated lab environment.
+
+Why I did it
+
+* **Target Validation:** Establishes a reliable, vulnerable endpoint to practice security testing and validation.
+* **Troubleshooting & Adaptation:** Overcame legacy disk controller quirks to ensure smooth integration within a modern Proxmox hypervisor.
+
+
 ## [2026-07-06]
 
 ### What I did
